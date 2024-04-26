@@ -1,3 +1,8 @@
+> [!NOTE]
+> Active development of this project has moved within PrefectHQ/prefect. The code can be found [here](https://github.com/PrefectHQ/prefect/tree/main/src/integrations/prefect-databricks) and documentation [here](https://docs.prefect.io/latest/integrations/prefect-databricks).
+> Please open issues and PRs against PrefectHQ/prefect instead of this repository.
+
+
 # prefect-databricks
 
 Visit the full docs [here](https://PrefectHQ.github.io/prefect-databricks) to see additional examples and the API reference.
